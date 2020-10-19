@@ -1,0 +1,9 @@
+{
+    "type": "hashgraph",
+    "work": "query",
+    "block_length": 100,
+    "node_url": ["127.0.0.1:50203"],
+    "sender_num": 10,
+    "query_ip": "127.0.0.1",
+    "query_port": "50203"
+ }

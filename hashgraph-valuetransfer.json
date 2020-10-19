@@ -1,0 +1,16 @@
+{
+   "type": "hashgraph",
+   "work":"valuetransfer",
+   "duration": 10,
+   "tx_rate": 0.5,
+   "sender_num": 4,
+   "node_url": [
+      "127.0.0.1:50202",
+      "127.0.0.1:50203",
+      "127.0.0.1:50204",
+      "127.0.0.1:50205"
+   ],
+   "query_ip": "127.0.0.1",
+   "query_port": "50203",
+   "query_times": 10
+}
